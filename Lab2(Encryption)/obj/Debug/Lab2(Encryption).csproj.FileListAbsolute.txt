@@ -1,0 +1,11 @@
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\bin\Debug\Lab2(Encryption).exe.config
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\bin\Debug\Lab2(Encryption).exe
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\bin\Debug\Lab2(Encryption).pdb
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2(Encryption).csproj.AssemblyReference.cache
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2_Encryption_.Form1.resources
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2_Encryption_.Properties.Resources.resources
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2(Encryption).csproj.GenerateResource.cache
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2(Encryption).csproj.CoreCompileInputs.cache
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2(Encryption).exe
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2(Encryption).pdb
+C:\Users\vigov\source\repos\Lab2(Encryption)\Lab2(Encryption)\obj\Debug\Lab2_Encryption_.Form2.resources
